@@ -14,8 +14,10 @@ Hi there 👋, I'm Mahalakshmi!
 - LinkedIn:https://github.com/maha1akshmi
 
 📊 GitHub Stats:
-![Mahalakshmi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+📊 GitHub Stats:
+![Mahalakshmi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=maha1akshmi&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maha1akshmi&layout=compact&theme=radical)
+
 
 💼 I'm open to job opportunities and internships where I can contribute, learn, and grow.
 
