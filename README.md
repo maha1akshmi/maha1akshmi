@@ -5,7 +5,7 @@ Hi there 👋, I'm Mahalakshmi!
 🛠️ Tech Stack:
 - 💻 Languages: Java, HTML, CSS, JavaScript
 - ⚛️ Frontend: React
-- 🛢️ Backend & Database: MySQL
+- 🛢️ Backend & Database: Spring Boot & MySQL
 
 🌱 I’m currently sharpening my skills in backend development and working on exciting Java-based projects.
 
