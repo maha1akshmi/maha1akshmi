@@ -11,7 +11,7 @@ Hi there 👋, I'm Mahalakshmi!
 
 📬 Let's connect:
 - Email: mahalakshmi02cse@gmail.com
-- LinkedIn:https://github.com/maha1akshmi
+- LinkedIn:http://linkedin.com/in/maha1akshmi
 
 📊 GitHub Stats:
 📊 GitHub Stats:
